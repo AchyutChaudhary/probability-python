@@ -32,3 +32,5 @@ mylist = [x*x for x in range(3)]                #creating a list using [
 
 https://www.pythoncentral.io/python-snippets-how-to-generate-random-string/
 https://stackoverflow.com/questions/2257441/random-string-generation-with-upper-case-letters-and-digits-in-python
+
+captcha repository download link : https://pypi.org/project/captcha/#files
